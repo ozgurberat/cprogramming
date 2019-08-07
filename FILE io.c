@@ -46,7 +46,7 @@ int getSizeOfClass(char*);
 int cmpStrings(char*, char*);
 void showMainMenu();
 
-
+//Change
 
 /* Input Stream'den Ogrenci bilgileri alarak yeni bir Student struct'ý olusturur.
    returns: Olusturulan Student struct'ýný doner.
